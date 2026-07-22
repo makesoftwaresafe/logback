@@ -1,0 +1,22 @@
+
+Removed deprecated class ch.qos.logback.classic.turbo.ReconfigureOnChangeFilter
+
+Removed deprecated variable ch.qos.logback.classic.PatternLayout#DEFAULT_CONVERTER_MAP
+Removed deprecated variable ch.qos.logback.classic.PatternLayout#defaultConverterMap
+Removed deprecated method ch.qos.logback.classic.PatternLayout#getDefaultConverterMap()
+Removed deprecated method ch.qos.logback.core.util.ExecutorServiceUtil#newExecutorService()
+Removed deprecated method ch.qos.logback.core.util.VersionUtil#getVersionOfArtifact(Class<?>)
+Removed deprecated method ch.qos.logback.core.pattern.PatternLayoutBase#setContextForConverters
+Removed deprecated method ch.qos.logback.core.pattern.PatternLayoutEncoderBase#setOutputPatternAsPresentationHeader
+Removed deprecated method ch.qos.logback.core.joran.spi.ConfigurationWatchList#changeDetected
+Removed deprecated method ch.qos.logback.core.joran.GenericXMLConfigurator#informContextOfURLUsedForConfiguration
+Removed deprecated method ch.qos.logback.core.model.ModelUtil#setProperty
+Removed deprecated method ch.qos.logback.core.model.ModelUtil#setProperties
+Removed deprecated method ch.qos.logback.core.joran.action.PreconditionValidator#generic
+
+Removed deprecated method ch.qos.logback.core.util.EnvUtil#logbackVersion
+
+Removed deprecated variable ch.qos.logback.classic.util.ContextInitializer#AUTOCONFIG_FILE
+Removed deprecated variable ch.qos.logback.classic.util.ContextInitializer#TEST_AUTOCONFIG_FILE
+Removed deprecated variable ch.qos.logback.classic.util.ContextInitializer#CONFIG_FILE_PROPERTY
+Removed deprecated method ch.qos.logback.classic.util.ClassicEnvUtil#getVersionOfLogbackClassic
