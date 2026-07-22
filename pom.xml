@@ -58,7 +58,7 @@
     <project.build.outputTimestamp>2026-07-22T09:10:00Z</project.build.outputTimestamp>
 
     <!-- minimal JDK version at runtime -->
-    <jdk.version>17</jdk.version>
+    <jdk.version>11</jdk.version>
     <!-- See https://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-release.html -->
     <maven.compiler.release>${jdk.version}</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
